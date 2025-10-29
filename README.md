@@ -12,7 +12,7 @@ The system eliminates the need for manual voter verification, reduces human erro
 - **LCD Display (16x2)** – To show system status and voting messages  
 - **Buzzer** – Indicates success or error during fingerprint scanning  
 - **Push Buttons / Switches** – To cast votes  
-- **Jumper Wires & Breadboard** – For circuit connections  
+- **Jumper Wires ** – For circuit connections  
 
 ---
 
@@ -41,8 +41,10 @@ The system eliminates the need for manual voter verification, reduces human erro
 ## 🎬 Project Demo
 GitHub does not support direct video playback.  
 To view the working demo, **download** the file `Voting_System_Working.mp4` from this repository.  
+### 🎥 Demo Video
+*Note: The demo video file (`Voting_System_Working.mp4`) is included in this repository.  
+Please download it to view the hardware demonstration. The video does not contain audio narration.*
 
-*(Optional: You can also upload the video to Google Drive or YouTube and add a link here later.)*  
 
 ---
 
@@ -60,6 +62,4 @@ This project demonstrates the integration of **hardware and embedded systems** f
 It highlights how biometrics can enhance the **integrity, reliability, and transparency** of the voting process.
 
 ---
-### 🎥 Demo Video
-*Note: The demo video file (`Voting_System_Working.mp4`) is included in this repository.  
-Please download it to view the hardware demonstration. The video does not contain audio narration.*
+

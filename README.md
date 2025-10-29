@@ -60,4 +60,6 @@ This project demonstrates the integration of **hardware and embedded systems** f
 It highlights how biometrics can enhance the **integrity, reliability, and transparency** of the voting process.
 
 ---
-
+### 🎥 Demo Video
+*Note: The demo video file (`Voting_System_Working.mp4`) is included in this repository.  
+Please download it to view the hardware demonstration. The video does not contain audio narration.*
